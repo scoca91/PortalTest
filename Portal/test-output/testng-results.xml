@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6591" started-at="2018-12-24T21:36:32Z" finished-at="2018-12-24T21:36:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6591" started-at="2018-12-24T21:36:32Z" finished-at="2018-12-24T21:36:38Z">
+      <class name="Tests.LoginTest">
+        <test-method status="PASS" signature="StartDriver()[pri:0, instance:Tests.LoginTest@4c70fda8]" name="StartDriver" is-config="true" duration-ms="6341" started-at="2018-12-24T21:36:32Z" finished-at="2018-12-24T21:36:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartDriver -->
+        <test-method status="PASS" signature="LoginUser()[pri:0, instance:Tests.LoginTest@4c70fda8]" name="LoginUser" duration-ms="234" started-at="2018-12-24T21:36:38Z" finished-at="2018-12-24T21:36:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginUser -->
+      </class> <!-- Tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
