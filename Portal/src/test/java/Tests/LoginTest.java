@@ -9,6 +9,6 @@ public class LoginTest extends InitiateDriver  {
 	@Test
 	public void LoginUser() {
 		BaseLogin forLogin  = new BaseLogin(driver);
-		forLogin.Login("xxxxx","xxxx");;
+		forLogin.Login("xxxxx","xxxx");
 	}
 }
